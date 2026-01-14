@@ -1,0 +1,5 @@
+Student_ID,Name,Attendance,Quiz1,Quiz2,Assignment1,Assignment2,FinalExam,Average,Performance,AtRisk,Recommendation
+101,John,85,10,10,10,10,90,94.0,Excellent,0,
+102,Alice,65,5,6,4,5,60,56.0,Average,0,"Practice Quizzes, Improve Assignments"
+103,Bob,90,9,8,8,9,85,85.0,Excellent,0,
+104,Eve,60,4,3,5,4,50,46.0,Needs Improvement,1,"Practice Quizzes, Improve Assignments"
