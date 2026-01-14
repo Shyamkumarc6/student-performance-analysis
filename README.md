@@ -13,7 +13,7 @@ This project uses Machine Learning to predict student academic performance based
 - windows os
 
 ## How to Run
-1. check Install requirements
+1. check python installation open cmd and type ```bash python --version
 2. navigate to project folder "D:\stud_perf_analysis_system\final_student_analysis.csv"
 3. run the python script python analyze_student.py
 ## Output
