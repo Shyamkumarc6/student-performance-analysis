@@ -10,16 +10,14 @@ This project uses Machine Learning to predict student academic performance based
 ## Technologies Used
 - Python
 - Pandas, NumPy
-- Scikit-learn
-- Streamlit
+- windows os
 
 ## How to Run
-1. Install requirements
-2. Run:
-   streamlit run app.py
-
+1. check Install requirements
+2. navigate to project folder "D:\stud_perf_analysis_system\final_student_analysis.csv"
+3. run the python script python analyze_student.py
 ## Output
-The system displays predicted student performance in real time.
+The script reads student_data.csv, analyzes student performance, and displays prediction results in the command prompt.
 
 ## Author
 Shyam Kumar C
