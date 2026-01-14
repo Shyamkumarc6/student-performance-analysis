@@ -1,2 +1,25 @@
-# student-performance-analysis
-tudent Performance Analysis System is a machine learning project that predicts student academic performance based on attendance, study hours, and assessment scores. It provides real-time performance prediction through a Streamlit web interface to support early academic intervention and improved learning outcome
+# Student Performance Analysis System
+
+This project uses Machine Learning to predict student academic performance based on attendance, study hours, and assessment scores.
+
+## Features
+- Predicts student performance category
+- User-friendly Streamlit interface
+- Helps early academic intervention
+
+## Technologies Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Streamlit
+
+## How to Run
+1. Install requirements
+2. Run:
+   streamlit run app.py
+
+## Output
+The system displays predicted student performance in real time.
+
+## Author
+Shyam Kumar C
